@@ -1,1 +1,6 @@
 /bin/
+*.html
+*.class
+*.log
+report/
+screenshot/
